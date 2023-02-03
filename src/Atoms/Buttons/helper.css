@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "Graphik";
+  src: url("./Graphik-Regular-Trial.otf") format("truetype");
+}
+.buy_max {
+  width: 80px;
+  height: 42px;
+  font-family: "Graphik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 42px;
+  letter-spacing: 0.01em;
+  border: 2px solid #0052ff;
+  border-radius: 4px;
+  color: #0052ff;
+  background-color: white;
+  padding: 0px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+/* .buy_max_main {
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 16px;
+  gap: 10px;
+
+  width: 90px;
+  height: 42px;
+  background: #ffffff;
+
+  border: 1px solid #0052ff;
+  border-radius: 4px;
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+} */

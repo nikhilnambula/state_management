@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "../state_assgn/src/slider.tsx"  ]
 }

@@ -1,0 +1,24 @@
+.icon_card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  gap: 4px;
+  width: 42px;
+  height: 206px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.v_line {
+  width: 0px;
+  height: 32px;
+
+  /* gamma/grey/300 */
+
+  border: 1px dashed #b4b4cf;
+
+  flex: none;
+  flex-grow: 0;
+}
