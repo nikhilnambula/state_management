@@ -5,7 +5,7 @@ import {
   Typography1,
   Typography2,
   Typography3,
-  Typography4,
+  // Typography4,
   Typography9,
 } from "../Atoms/Typography/typography";
 import "./card.css";
@@ -41,7 +41,6 @@ export const Card: React.FC<Props> = () => {
             <Slider1 value={value} onChange={handleChange} />
             <Typography9 value="1BTC=$3,406,069.54" />
           </Stack>
-
           <div className="card2">
             <Typography2 value="0.023451" />
             <Typography9 value="BTC" />
